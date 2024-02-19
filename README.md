@@ -1,1 +1,1 @@
-Creation of 100 random copolymers using create 100 random block copolymers using the PSMILES package (‣) https://github.com/Ramprasad-Group/psmiles  and computing  Circular (Morgan) as well as PolyBERT fingerprints. 
+Creation of 100 random copolymers using the PSMILES package https://github.com/Ramprasad-Group/psmiles  and computing  Circular (Morgan) as well as PolyBERT fingerprints. 
